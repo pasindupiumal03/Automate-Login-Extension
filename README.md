@@ -2,7 +2,7 @@
 
 An advanced Chrome Extension designed to automate the login process for the **Amazon Hiring Authentication** page. This tool boosts productivity by securely storing multiple account credentials and enabling one-click login from any page.
 
-![Banner](src/assets/icons/logo.png) *(Note: Replace with actual screenshot or logo)*
+![Extension Preview](./src/assets/icons/extension-popup.png)
 
 ## 🚀 Key Features
 
